@@ -1,3 +1,3 @@
 # portfolio
 
-t http://krithika262.io/
+ http://krithika262.io/
