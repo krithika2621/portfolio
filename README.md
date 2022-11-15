@@ -1,3 +1,3 @@
 # portfolio
 
-https://dinneptireddysaigeethesh.github.io/portfolio/
+t http://krithika262.io/
