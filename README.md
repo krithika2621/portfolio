@@ -1,3 +1,3 @@
 # portfolio
 
- http://krithika262.io/
+ https://krithika2621.github.io/portfolio/
